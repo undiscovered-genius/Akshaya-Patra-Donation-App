@@ -1,3 +1,5 @@
+[![Views](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius/Akshaya-Patra-Donation-App)](https://github.com/undiscovered-genius/Akshaya-Patra-Donation-App)
+
 # Akshaya Patra Donation App (razorpay-android-integration)
 Akshaya Patra Donation App using razorpay integration
 
